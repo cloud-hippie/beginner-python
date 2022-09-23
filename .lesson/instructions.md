@@ -1,20 +1,9 @@
-# Instructions  
+# Instructions
 
-
-
-  _ students will see these instructions in a read-only workspace tab _
+This is the repl for the Beginner Python chapter at CloudHippie.com.
 
   ## Steps
-  1. 
-  2. 
-  3. 
+  1. Watch the Introduction Video.
+  2. Navigate to the panel on the right
+  3. Run `python NAME_OF_YOUR_SCRIPT`
 
-  Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format your instructions.
-
-  For example, here is a code block in python3
-```python
-def hello_world():
-  print("hello world!")
-```
-
-  
